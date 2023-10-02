@@ -6,6 +6,7 @@
 1. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
 2. [Same Tree](https://leetcode.com/problems/same-tree/description/)
 3. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+4. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
 
 <hr>
 
