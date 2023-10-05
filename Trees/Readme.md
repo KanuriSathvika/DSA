@@ -9,6 +9,7 @@
 4. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
 5. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
 6. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+7. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 
 <hr>
 
