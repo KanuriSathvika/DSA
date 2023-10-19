@@ -12,6 +12,7 @@
 7. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
 8. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 9. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+10. [Path Sum](https://leetcode.com/problems/path-sum/description/)
 
 <hr>
 
