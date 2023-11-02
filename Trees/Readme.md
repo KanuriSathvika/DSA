@@ -14,6 +14,7 @@
 9. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 10. [Path Sum](https://leetcode.com/problems/path-sum/description/)
 11. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+12. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 
 <hr>
 
