@@ -13,6 +13,7 @@
 8. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 9. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
 10. [Path Sum](https://leetcode.com/problems/path-sum/description/)
+11. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 
 <hr>
 
