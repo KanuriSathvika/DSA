@@ -67,7 +67,7 @@ class Solution {
             }
             if(count==0){
                 count=q.size();
-                freq.clear();   // To delete all the cols with freqs of same level when level is completed
+                freq.clear();   // To delete all the cols with freqs of same level when level is complete
             }
 
 
