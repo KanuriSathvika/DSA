@@ -1,6 +1,6 @@
 # Trees
 
-### Leetcode Problems
+### Leetcode ,GFG Problems
 
 ### Easy
 1. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)
@@ -15,6 +15,7 @@
 10. [Path Sum](https://leetcode.com/problems/path-sum/description/)
 11. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 12. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+13. [Closest Neighbour in BST](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1)
 
 <hr>
 
