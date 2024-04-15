@@ -1,9 +1,10 @@
 # Arrays
 
-### LeetCode Problems
+### LeetCode , Coding Ninjas Problems
 
 ### Easy
-1.[Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
+1. [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
+2. [Sort Odd Even](https://www.naukri.com/code360/problem-of-the-day/easy?leftPanelTabValue=PROBLEM)
 
 <hr>
 
