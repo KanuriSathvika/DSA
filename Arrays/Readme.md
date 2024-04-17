@@ -6,6 +6,7 @@
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)
 2. [Sort Odd Even](https://www.naukri.com/code360/problem-of-the-day/easy?leftPanelTabValue=PROBLEM)
 3. [Count the elements](https://www.geeksforgeeks.org/problems/count-the-elements1529/1)
+4. [Add One To Number](https://www.naukri.com/code360/problem-of-the-day/easy)
 
 <hr>
 
