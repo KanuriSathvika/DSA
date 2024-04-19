@@ -16,4 +16,4 @@
 3. [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/?envType=daily-question&envId=2024-02-14)
 4. [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/)
 5. [Minimize the Difference](https://www.geeksforgeeks.org/problems/minimize-the-difference/1)
-
+6. [Find missing in second array](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1)
