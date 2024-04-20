@@ -17,3 +17,4 @@
 4. [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/)
 5. [Minimize the Difference](https://www.geeksforgeeks.org/problems/minimize-the-difference/1)
 6. [Find missing in second array](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1)
+7. [Union of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
