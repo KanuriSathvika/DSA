@@ -21,5 +21,7 @@
 6. [Find missing in second array](https://www.geeksforgeeks.org/problems/in-first-but-second5423/1)
 7. [Union of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 
+<hr>
+
 ### Hard
 1. [Rohan's Love for Matrix](https://www.geeksforgeeks.org/problems/rohans-love-for-matrix4723/1)
