@@ -9,6 +9,7 @@
 4. [Add One To Number](https://www.naukri.com/code360/problem-of-the-day/easy)
 5. [Three way partitioning](https://www.geeksforgeeks.org/problems/three-way-partitioning/1)
 6. [Row with minimum number of 1's](https://www.geeksforgeeks.org/problems/row-with-minimum-number-of-1s5430/1)
+7. [Exit Point in a Matrix](https://www.geeksforgeeks.org/problems/exit-point-in-a-matrix0905/1)
 
 <hr>
 
