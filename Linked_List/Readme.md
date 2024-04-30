@@ -11,4 +11,5 @@
 <hr>
 
 ### Medium 
-1.[Merge Sort on Doubly Linked List](https://www.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)
+1. [Merge Sort on Doubly Linked List](https://www.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1)
+2. [Add two numbers represented by linked lists](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
