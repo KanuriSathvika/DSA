@@ -16,6 +16,7 @@
 11. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 12. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 13. [Closest Neighbour in BST](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1)
+14. [K distance from root](https://www.geeksforgeeks.org/problems/k-distance-from-root/1)
 
 <hr>
 
