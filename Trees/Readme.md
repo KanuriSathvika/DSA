@@ -35,6 +35,7 @@
 12. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)
 13. [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)
 14. [Serialize and deserialize a binary tree in GFG](https://geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
+15. [Construct Binary Tree from Inorder and Postorder](https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1)
 
 
 <hr>
