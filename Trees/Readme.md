@@ -39,6 +39,7 @@
 14. [Serialize and deserialize a binary tree in GFG](https://geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)
 15. [Construct Binary Tree from Inorder and Postorder](https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1)
 16. [Vertical sum](https://www.geeksforgeeks.org/problems/vertical-sum/1)
+17. [Root to Leaf Paths](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)
 
 
 <hr>
