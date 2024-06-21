@@ -4,6 +4,7 @@
 
 ### Easy
 1. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+2. [N meetings in one room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
 ### Medium
 1. [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)
