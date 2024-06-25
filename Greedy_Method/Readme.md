@@ -11,3 +11,4 @@
 2. [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
 3. [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)
 4. [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+5. [Shortest Job first](https://www.geeksforgeeks.org/problems/shortest-job-first/0)
