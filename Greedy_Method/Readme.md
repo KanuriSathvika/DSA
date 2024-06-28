@@ -13,3 +13,4 @@
 4. [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
 5. [Shortest Job first](https://www.geeksforgeeks.org/problems/shortest-job-first/0)
 6. [Jump Game](https://leetcode.com/problems/jump-game/description/)
+7. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
