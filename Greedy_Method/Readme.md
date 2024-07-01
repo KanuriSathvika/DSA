@@ -14,3 +14,4 @@
 5. [Shortest Job first](https://www.geeksforgeeks.org/problems/shortest-job-first/0)
 6. [Jump Game](https://leetcode.com/problems/jump-game/description/)
 7. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
+8. [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
