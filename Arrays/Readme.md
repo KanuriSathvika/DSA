@@ -24,6 +24,7 @@
 7. [Union of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 8. [Paths to reach origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1)
 9. [Maximum sum of hour glass](https://www.geeksforgeeks.org/problems/maximum-sum-of-hour-glass3842/1)
+10. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 
 <hr>
 
