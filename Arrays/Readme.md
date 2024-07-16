@@ -25,6 +25,7 @@
 8. [Paths to reach origin](https://www.geeksforgeeks.org/problems/paths-to-reach-origin3850/1)
 9. [Maximum sum of hour glass](https://www.geeksforgeeks.org/problems/maximum-sum-of-hour-glass3842/1)
 10. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
+11. [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
 <hr>
 
