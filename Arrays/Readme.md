@@ -28,6 +28,7 @@
 10. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)
 11. [Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 12. [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)
+13. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 
 <hr>
 
